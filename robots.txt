@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ameimiechi.merelyaboutstuff.com/sitemap.xml
